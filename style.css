@@ -1,0 +1,14 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.color-orange{
+    color:rgb(82, 235, 21);
+}
+.color-red{
+    color:red;
+h1{
+    font-size: 40px;
+}
+.under-line{
+    color:red;
+}
